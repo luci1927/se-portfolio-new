@@ -7,6 +7,7 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import ScrollToTop from './components/ScrollToTop'
+import AnimatedBackground from './components/AnimatedBackground'
 import './index.css'
 
 function App() {
@@ -33,6 +34,9 @@ function App() {
 
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300">
+      <div className="fixed inset-0 pointer-events-none">
+        <AnimatedBackground />
+      </div>
       <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <main className="relative">
         <Hero />

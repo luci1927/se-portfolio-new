@@ -55,10 +55,10 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="py-20 bg-white dark:bg-gray-900 transition-colors duration-300"
+      className="relative py-20 bg-transparent transition-colors duration-300"
       ref={ref}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
@@ -81,7 +81,7 @@ const Skills = () => {
             <motion.div
               key={skill.name}
               variants={itemVariants}
-              className="flex flex-col items-center p-6 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-md hover:shadow-xl dark:hover:shadow-xl dark:hover:shadow-primary-500/10 transition-all duration-300 transform hover:-translate-y-1 dark:hover:-translate-y-1 hover:scale-105 dark:hover:scale-105 group cursor-pointer"
+              className="flex flex-col items-center p-6 bg-gray-50/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-lg shadow-md hover:shadow-xl dark:hover:shadow-xl dark:hover:shadow-primary-500/10 transition-all duration-300 transform hover:-translate-y-1 dark:hover:-translate-y-1 hover:scale-105 dark:hover:scale-105 group cursor-pointer"
               whileHover={{
                 y: -5,
                 transition: { duration: 0.2 },

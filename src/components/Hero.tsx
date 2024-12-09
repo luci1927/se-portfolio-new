@@ -46,7 +46,8 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="mt-3 max-w-md mx-auto text-base sm:text-lg md:mt-5 md:text-xl md:max-w-3xl text-gray-600 dark:text-gray-300"
           >
-            Fullstack Software Engineer
+            Fullstack Training Software Engineer with a passion for creating
+            user-friendly web applications.
           </motion.p>
 
           <motion.div

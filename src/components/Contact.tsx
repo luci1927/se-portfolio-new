@@ -12,19 +12,19 @@ const Contact = () => {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'tharindu.dulanka@eversoft.lk',
+      href: 'mailto:tharindu.dulanka@eversoft.lk',
     },
     {
       icon: FaPhone,
       label: 'Phone',
-      value: '+1234567890',
-      href: 'tel:+1234567890',
+      value: '+94774754156',
+      href: 'tel:+94774754156',
     },
     {
       icon: FaMapMarkerAlt,
       label: 'Location',
-      value: 'Your City, Country',
+      value: 'Seeduwa, Sri Lanka',
       href: '#',
     },
   ]

@@ -76,7 +76,7 @@ const About = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Download Resume
+              Download Resume From Here
             </a>
           </motion.div>
         </div>

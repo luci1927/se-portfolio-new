@@ -18,7 +18,7 @@ const Contact = () => {
     {
       icon: FaPhone,
       label: 'Phone',
-      value: '+94774754156',
+      value: '0774754156',
       href: 'tel:+94774754156',
     },
     {

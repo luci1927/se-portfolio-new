@@ -1,22 +1,27 @@
 import { motion } from 'framer-motion'
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaTwitter, FaWhatsapp } from 'react-icons/fa'
 
 const Hero = () => {
   const socialLinks = [
     {
       name: 'GitHub',
-      url: 'https://github.com/yourusername',
+      url: 'https://github.com/luci1927',
       icon: FaGithub,
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/yourusername',
+      url: 'https://www.linkedin.com/in/tharindudulanka/',
       icon: FaLinkedin,
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/yourusername',
+      url: 'https://x.com/Tharindu0929',
       icon: FaTwitter,
+    },
+    {
+      name: 'WhatsApp',
+      url: 'https://wa.me/94774754156',
+      icon: FaWhatsapp,
     },
   ]
 

@@ -71,12 +71,12 @@ const About = () => {
             className="mt-10 text-center"
           >
             <a
-              href="/path-to-your-resume.pdf"
+              href="/src/assets/Tharindu_Dulanka_Resume.pdf"
               className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Download Resume From Here
+              Download Resume
             </a>
           </motion.div>
         </div>

@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaTwitter, FaWhatsapp } from 'react-icons/fa'
 
 const Footer = () => {
   const currentYear = new Date().getFullYear()
@@ -18,6 +18,11 @@ const Footer = () => {
       name: 'Twitter',
       url: 'https://twitter.com/yourusername',
       icon: FaTwitter,
+    },
+    {
+      name: 'WhatsApp',
+      url: 'https://wa.me/94774754156',
+      icon: FaWhatsapp,
     },
   ]
 

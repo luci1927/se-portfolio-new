@@ -14,27 +14,27 @@ const Projects = () => {
       description:
         'A full-stack e-commerce platform with features like product management, shopping cart, secure payments, and real-time inventory tracking.',
       image: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2089&q=80',
-      tags: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Redux'],
-      githubUrl: 'https://github.com/yourusername/ecommerce-platform',
-      liveUrl: 'https://ecommerce-platform.demo',
+      tags: ['PHP', 'JavaScript', 'HTML', 'MySQL', 'Other'],
+      githubUrl: 'https://github.com/luci1927/nizon-web',
+      liveUrl: '#',
     },
     {
-      title: 'Task Management App',
+      title: 'Portfolio Website',
       description:
-        'A collaborative task management application with real-time updates, team workspaces, and progress tracking features.',
+        'A portfolio website template with a modern design, smooth animations, and responsive layout built using React and Tailwind CSS.',
       image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
-      tags: ['TypeScript', 'Next.js', 'PostgreSQL', 'Prisma', 'TailwindCSS'],
-      githubUrl: 'https://github.com/yourusername/task-manager',
-      liveUrl: 'https://task-manager.demo',
+      tags: ['TypeScript', 'JavaScript', 'HTML', 'Prisma', 'TailwindCSS'],
+      githubUrl: 'https://github.com/luci1927/multi-offset-printers',
+      liveUrl: '#',
     },
     {
-      title: 'AI-Powered Chat Application',
+      title: 'Chat Application for Mobile',
       description:
-        'A modern chat application featuring AI-powered responses, real-time translation, and voice message transcription.',
+        'A modern chat application for mobile devices with features like real-time messaging, push notifications, and user authentication. (Under Development)',
       image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
-      tags: ['React', 'Python', 'OpenAI', 'WebSocket', 'Docker'],
-      githubUrl: 'https://github.com/yourusername/ai-chat-app',
-      liveUrl: 'https://ai-chat-app.demo',
+      tags: ['React', 'JavaScript', 'React-Native', 'Other'],
+      githubUrl: 'https://github.com/luci1927/Chat-App',
+      liveUrl: '#',
     },
   ]
 

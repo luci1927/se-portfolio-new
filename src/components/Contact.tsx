@@ -31,7 +31,6 @@ const Contact = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    // Add your form submission logic here
   }
 
   return (

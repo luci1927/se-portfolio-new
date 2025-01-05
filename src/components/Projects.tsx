@@ -33,7 +33,7 @@ const Projects = () => {
         'A modern chat application for mobile devices with features like real-time messaging, push notifications, and user authentication. (Under Development)',
       image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
       tags: ['React', 'JavaScript', 'React-Native', 'Other'],
-      githubUrl: 'https://github.com/luci1927/Chat-App',
+      githubUrl: '#',
       liveUrl: '#',
     },
   ]

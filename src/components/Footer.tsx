@@ -11,7 +11,7 @@ const Footer = () => {
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/yourusername',
+      url: 'https://linkedin.com/in/tharindudulanka',
       icon: FaLinkedin,
     },
     {

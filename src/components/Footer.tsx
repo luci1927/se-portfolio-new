@@ -16,7 +16,7 @@ const Footer = () => {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/yourusername',
+      url: 'https://twitter.com/Tharindu0929',
       icon: FaTwitter,
     },
     {

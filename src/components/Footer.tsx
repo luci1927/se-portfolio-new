@@ -45,7 +45,7 @@ const Footer = () => {
             ))}
           </div>
           <p className="text-gray-600 dark:text-gray-400 text-sm transition-colors duration-300">
-            {currentYear} Tharindu Dulanka. All rights reserved.
+            {currentYear} Tharindu Dulanka. All rights reserved. 2025
           </p>
         </div>
       </div>

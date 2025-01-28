@@ -39,13 +39,13 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-primary-500 dark:text-gray-400 dark:hover:text-primary-400 transition-colors duration-300"
               >
-                <span className="sr-only">{link.name}</span>
+                <span className="sr-only">{link.name}</span> 
                 <link.icon className="h-6 w-6" />
               </a>
             ))}
           </div>
           <p className="text-gray-600 dark:text-gray-400 text-sm transition-colors duration-300">
-            {currentYear} Tharindu Dulanka. All rights reserved. 2025
+            {currentYear} Tharindu Dulanka. All rights reserved. 2025 ©
           </p>
         </div>
       </div>

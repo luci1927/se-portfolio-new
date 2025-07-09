@@ -12,8 +12,8 @@ const Contact = () => {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'tharindu.dulanka@eversoft.lk',
-      href: 'mailto:tharindu.dulanka@eversoft.lk',
+      value: 'yourname@se.lk',
+      href: 'mailto:yourname@se.lk',
     },
     {
       icon: FaPhone,
@@ -24,7 +24,7 @@ const Contact = () => {
     {
       icon: FaMapMarkerAlt,
       label: 'Location',
-      value: 'Seeduwa, Sri Lanka',
+      value: 'Sri Lanka',
       href: '#',
     },
   ]

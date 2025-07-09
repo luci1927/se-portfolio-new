@@ -5,22 +5,22 @@ const Hero = () => {
   const socialLinks = [
     {
       name: 'GitHub',
-      url: 'https://github.com/luci1927',
+      url: '#',
       icon: FaGithub,
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/tharindudulanka/',
+      url: '#',
       icon: FaLinkedin,
     },
     {
       name: 'Twitter',
-      url: 'https://x.com/Tharindu0929',
+      url: '#',
       icon: FaTwitter,
     },
     {
       name: 'WhatsApp',
-      url: 'https://wa.me/94774754156',
+      url: '#',
       icon: FaWhatsapp,
     },
   ]
@@ -40,7 +40,7 @@ const Hero = () => {
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 dark:text-white mb-4">
               <span className="block">Hi, I'm</span>
               <span className="block text-primary-600 dark:text-primary-400">
-                Tharindu Dulanka
+                Your Name
               </span>
             </h1>
           </motion.div>

@@ -40,7 +40,7 @@ const Navbar = ({ darkMode, toggleDarkMode }: NavbarProps) => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <span className="text-2xl font-bold text-primary-600 dark:text-primary-500">
-              TD
+              Your Name
             </span>
           </div>
 

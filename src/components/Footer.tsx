@@ -6,22 +6,22 @@ const Footer = () => {
   const socialLinks = [
     {
       name: 'GitHub',
-      url: 'https://github.com/luci1927',
+      url: '#',
       icon: FaGithub,
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/tharindudulanka',
+      url: '#',
       icon: FaLinkedin,
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Tharindu0929',
+      url: '#',
       icon: FaTwitter,
     },
     {
       name: 'WhatsApp',
-      url: 'https://wa.me/94774754156',
+      url: '#',
       icon: FaWhatsapp,
     },
   ]
